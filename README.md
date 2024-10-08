@@ -15,7 +15,7 @@ My name is Tuan Anh. I'm a student at University of Engineer and Technology. I'm
 
 <a href="https://github.com/Dainn98/PracticeGit">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=PracticeGit&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=LibraryManagement&theme=merko" />
 </a>
 <a href="https://github.com/Dainn98/HangMan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
