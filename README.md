@@ -30,21 +30,17 @@
 
 ---
 
-
 <a href="https://github.com/Dainn98/FloppyBird">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=FLoppyBird&theme=shadow_red" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=FloppyBird&theme=shadow_red" />
+</a>
 
 <a href="https://github.com/Dainn98/PracticeGit">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=LibraryManagement&theme=shadow_green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=LibraryManagement&theme=shadow_green" />
 </a>
 <a href="https://github.com/Dainn98/HangMan">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=HangMan&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=HangMan&theme=shadow_green" />
 </a>  
 <a href="https://github.com/Dainn98/Simple_XO">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=catppuccin_latte" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=shadow_red" />
 </a>  
+
