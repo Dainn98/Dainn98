@@ -10,13 +10,13 @@
 ### 🛠 Languages & tools:
 <div>          
   <p align="left">
-    <img src="./logo/cplusplus.png" title="C++" width="40" height="40" />
-    <img src="./logo/python.png" title="python" width="40" height="40" />
-    <img src="./logo/java.png" title="Java" width="40" height="40" />
-    <img src="./logo/docker.png" title="Docker" width="40" height="40" />
-    <img src="./logo/git.png" title="Git" width="40" height="40" />
-    <img src="./logo/jupiter_notebook.png" title="Jupiter notebook" width="40" height="40" />
-    <img src="./logo/anaconda.png" title="Anaconda" width="40" height="40" />
+    <img src="./Logo/cplusplus.png" title="C++" width="40" height="40" />
+    <img src="./Logo/python.png" title="python" width="40" height="40" />
+    <img src="./Logo/java.png" title="Java" width="40" height="40" />
+    <img src="./Logo/docker.png" title="Docker" width="40" height="40" />
+    <img src="./Logo/git.png" title="Git" width="40" height="40" />
+    <img src="./Logo/jupiter_notebook.png" title="Jupiter notebook" width="40" height="40" />
+    <img src="./Logo/Anaconda.png" title="Anaconda" width="40" height="40" />
   </p>
 </div>  
 
