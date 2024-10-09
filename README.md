@@ -25,24 +25,26 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dainn98/) 
 [![Codeforces](https://img.shields.io/badge/Codeforce-%231877F2.svg?logo=Codeforce&logoColor=white)](https://codeforces.com/profile/dainn98)
 
-![Tuan Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainn98&hide=contribs,prs,issues&theme=radical)
+![Dainn98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dainn98&show_icons=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ---
 
+
 <a href="https://github.com/Dainn98/FloppyBird">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=FLoppyBird&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=FLoppyBird&theme=shadow_red" />
 </a>  
 
 <a href="https://github.com/Dainn98/PracticeGit">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=LibraryManagement&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=LibraryManagement&theme=shadow_green" />
 </a>
 <a href="https://github.com/Dainn98/HangMan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=HangMan&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=HangMan&theme=vue" />
 </a>  
 <a href="https://github.com/Dainn98/Simple_XO">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=catppuccin_latte" />
 </a>  
