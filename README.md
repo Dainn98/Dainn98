@@ -1,6 +1,27 @@
-### 👋 WELCOME TO MY PAGE
-My name is Tuan Anh. I'm a student at University of Engineer and Technology. I'm interested in learning and exploring the field of AI and Data Science. 
-## How to contact me:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+%40Dainn98+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+2th-year+student+from+UET-VNU)
+---
+### 👩‍💻 About me:
+- 🌱 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
+- ⚡ Favourite quote: "The unstoppable marching of time is slowly guiding us all towards an inevitable death".
+- 💬 Feel free to ask me about anything about my work or new opportunities.
+- 📫 Contact me through: [tuananhpham12072005@gmail.com](mailto:tuananhpham12072005@gmail.com).
+- 🔭 I'm interested in learning and exploring the field of Data Science and Machine Learning.
+
+### 🛠 Languages & tools:
+<div>          
+  <p align="left">
+    <img src="./logo/cplusplus.png" title="C++" width="40" height="40" />
+    <img src="./logo/python.png" title="python" width="40" height="40" />
+    <img src="./logo/java.png" title="Java" width="40" height="40" />
+    <img src="./logo/docker.png" title="Docker" width="40" height="40" />
+    <img src="./logo/git.png" title="Git" width="40" height="40" />
+    <img src="./logo/jupiter_notebook.png" title="Jupiter notebook" width="40" height="40" />
+    <img src="./logo/anaconda.png" title="Anaconda" width="40" height="40" />
+  </p>
+</div>  
+
+### ✉ Connect with me via: 
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dainn98/) 
 [![Codeforces](https://img.shields.io/badge/Codeforce-%231877F2.svg?logo=Codeforce&logoColor=white)](https://codeforces.com/profile/dainn98)
 
