@@ -21,18 +21,31 @@
 </div>  
 
 ### ✉ Connect with me via: 
+<div align="center">          
+  <p>
+    
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dainn98/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanhh.1275/) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%235A5FCD.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/dainn98)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tuananhk56a1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Dainn98/)
 
+  </p>
+</div>  
+<div align="center">          
+  <p>
+
 ![Dainn98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dainn98&show_icons=true&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dainn98&layout=compact)
 
+  </p>
+</div>  
 
----
+### My repositories: 
 
+<div align="center">          
+  <p>
+    
 <a href="https://github.com/Dainn98/FloppyBird">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=FloppyBird&theme=shadow_red" />
 </a>
@@ -46,4 +59,6 @@
 <a href="https://github.com/Dainn98/Simple_XO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=shadow_red" />
 </a>  
+  </p>
+</div>  
 
