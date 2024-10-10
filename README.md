@@ -7,26 +7,29 @@
 - 📫 Contact me through: [tuananhpham12072005@gmail.com](mailto:tuananhpham12072005@gmail.com).
 - 🔭 I'm interested in learning and exploring the field of Data Science and Machine Learning.
 
-### 🛠 Languages & tools:
-<div>          
-  <p align="left">
-    <img src="./Logo/cplusplus.png" title="C++" width="40" height="40" />
-    <img src="./Logo/python.png" title="python" width="40" height="40" />
-    <img src="./Logo/java.png" title="Java" width="40" height="40" />
-    <img src="./Logo/docker.png" title="Docker" width="40" height="40" />
-    <img src="./Logo/git.png" title="Git" width="40" height="40" />
-    <img src="./Logo/jupiter_notebook.png" title="Jupiter notebook" width="40" height="40" />
-    <img src="./Logo/Anaconda.png" title="Anaconda" width="40" height="40" />
+### 🛠 Languages & Tools:
+<div align="center">          
+  <p>
+    <img src="./Logo/cplusplus.png" title="C++" alt="C++" width="50" height="50" style="margin: 10px;"/>
+    <img src="./Logo/python.png" title="Python" alt="Python" width="50" height="50" style="margin: 10px;"/>
+    <img src="./Logo/java.png" title="Java" alt="Java" width="50" height="50" style="margin: 10px;"/>
+    <img src="./Logo/docker.png" title="Docker" alt="Docker" width="50" height="50" style="margin: 10px;"/>
+    <img src="./Logo/git.png" title="Git" alt="Git" width="50" height="50" style="margin: 10px;"/>
+    <img src="./Logo/jupiter_notebook.png" title="Jupyter Notebook" alt="Jupyter Notebook" width="50" height="50" style="margin: 10px;"/>
+    <img src="./Logo/Anaconda.png" title="Anaconda" alt="Anaconda" width="50" height="50" style="margin: 10px;"/>
   </p>
 </div>  
 
 ### ✉ Connect with me via: 
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dainn98/) 
-[![Codeforces](https://img.shields.io/badge/Codeforce-%231877F2.svg?logo=Codeforce&logoColor=white)](https://codeforces.com/profile/dainn98)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanhh.1275/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-%235A5FCD.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/dainn98)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tuananhk56a1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Dainn98/)
 
 ![Dainn98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dainn98&show_icons=true&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dainn98&layout=compact)
+
 
 ---
 
