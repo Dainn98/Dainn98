@@ -60,5 +60,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=Simple_XO&theme=shadow_red" />
 </a>  
   </p>
+  <a href="https://github.com/Dainn98/GenerativeAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainn98&repo=GenerativeAI&theme=shadow_red" />
+</a>
 </div>  
 
