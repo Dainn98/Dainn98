@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+%40Dainn98+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+IT+sophomore+from+UET-VNU)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+%40Dainn98+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;An+IT+sophomore+from+UET-VNU)
 ---
 ### 👩‍💻 About me:
 - 🌱 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
