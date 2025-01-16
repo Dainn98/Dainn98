@@ -5,7 +5,7 @@
 - ⚡ Favourite quote: "The unstoppable marching of time is slowly guiding us all towards an inevitable death".
 - 💬 Feel free to ask me about anything about my work or new opportunities.
 - 📫 Contact me through: [tuananhpham12072005@gmail.com](mailto:tuananhpham12072005@gmail.com).
-- 🔭 I'm interested in learning and exploring the field of Data Science and Machine Learning.
+- 🔭 I'm interested in learning and exploring the field of Data Science and Software Engineering.
 
 ### 🛠 Languages & Tools:
 <div align="center">          
